@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: shared-towsifkafi-cf # unique identifier
-    name: DriveIndexer (shared.towsifkafi.cf)
+    name: DriveIndexer-shared.towsifkafi.cf
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://shared.towsifkafi.cf/' # URL to fetch
     method: GET # default=GET
