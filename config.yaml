@@ -15,8 +15,8 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: shared-tosifkafi-cf # unique identifier
-    name: shared.towsifkafi.cf
+  - id: shared-towsifkafi-cf # unique identifier
+    name: DriveIndexer (shared.towsifkafi.cf)
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://shared.towsifkafi.cf/' # URL to fetch
     method: GET # default=GET
